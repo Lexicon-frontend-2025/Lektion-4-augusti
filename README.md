@@ -47,3 +47,7 @@ Roles Within an Agile Team
 
 ## 🖥️ Slides
 * * [**Denna power point är för hela veckan**](https://docs.google.com/presentation/d/1saJDfsGqTOppkWu8JhHIVymtMRJIqlWXgAGR6BVuo_U/edit?usp=sharing)
+
+
+### Dagens Lektions Inspelningar:
+* [**Första delen:**] (https://utbaf.sharepoint.com/:v:/s/Front-endutveckling-2025/EUJQEZtGxpJLho2oOYpo3AABpdOo7BCwFPcysOmZ-GFapw?e=3fP0Pm)
