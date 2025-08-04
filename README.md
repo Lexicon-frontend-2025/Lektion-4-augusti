@@ -45,4 +45,4 @@ Roles Within an Agile Team
   * Denna övning kommer att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
-* * [**Denna power point är för hela veckan**]([https://github.com/Lexicon-frontend-2025/agila-metoder_gruppuppgift/blob/main/README.md](https://docs.google.com/presentation/d/1saJDfsGqTOppkWu8JhHIVymtMRJIqlWXgAGR6BVuo_U/edit?usp=sharing))
+* * [**Denna power point är för hela veckan**](https://docs.google.com/presentation/d/1saJDfsGqTOppkWu8JhHIVymtMRJIqlWXgAGR6BVuo_U/edit?usp=sharing)
