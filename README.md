@@ -16,7 +16,8 @@ Efter denna dag ska du:
 ## 📚 Material
 
 ### E‑Learning
-* [Agile Fundamentals (Pluralsight)](https://app.pluralsight.com/library/courses/agile-fundamentals/table-of-contents) 
+* [Agile Fundamentals (Pluralsight)](https://app.pluralsight.com/library/courses/agile-fundamentals/table-of-contents)
+* [GitHub Foundations: GitHub Project Management (Pluralsight)](https://app.pluralsight.com/library/courses/github-foundations-github-project-management/table-of-contents)com/library/courses/github-foundations-github-project-management/table-of-contents)) 
 
 Delarna:
 1. Introduction
