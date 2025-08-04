@@ -50,4 +50,5 @@ Roles Within an Agile Team
 
 
 ### Dagens Lektions Inspelningar:
-* [**Första delen:**] (https://utbaf.sharepoint.com/:v:/s/Front-endutveckling-2025/EUJQEZtGxpJLho2oOYpo3AABpdOo7BCwFPcysOmZ-GFapw?e=3fP0Pm)
+* [**Första delen:**](https://utbaf.sharepoint.com/:v:/s/Front-endutveckling-2025/EUJQEZtGxpJLho2oOYpo3AABpdOo7BCwFPcysOmZ-GFapw?e=3fP0Pm)
+* [**Andra delen:**](https://utbaf.sharepoint.com/:v:/s/Front-endutveckling-2025/EUuYInV8m7BKuJu9bZDFXjkBMmzhFHmUIYopmff81ryRLg?e=rCdl3H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
